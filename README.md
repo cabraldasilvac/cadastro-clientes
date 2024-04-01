@@ -16,46 +16,46 @@ O projeto esta hospedado em Vercel. [Cadastro Clientes]()
 
 | Complete | Under development | In revision |
 | -------- | ----------------- | ----------- |
-| &#x2611; | &#x2612;          | &#x2612;    |
+| &#x2612; | &#x2612;          | &#x2611;    |
 
 ## Primeira parte - ✅ Backend
 
 ## api-cadastro-cliente
 
--   (NodeJS) Rotas
+- (NodeJS) Rotas
 
-    -   [x] Criar api rest com fastify
-    -   [x] Comunicar ocom banco de dados
-    -   [x] Cadastrar novo cliente com o nome, email, e status
-    -   [x] Listar todos clientes cadastrados
-    -   [x] Deletar um cliente com base em um id
+  - [x] Criar api rest com fastify
+  - [x] Comunicar ocom banco de dados
+  - [x] Cadastrar novo cliente com o nome, email, e status
+  - [x] Listar todos clientes cadastrados
+  - [x] Deletar um cliente com base em um id
 
 ## Segunda parte - ✅FrontEnd
 
 ## Interface cadastro-clientes
 
--   Reacjt JS + Typescript
--   [x] Consumir api rest
--   [x] Listar todos clientes cadastrados
--   [x] Cadastrar noco cliente com nome, email
--   [x] Deletar um cliente
+- Reacjt JS + Typescript
+- [x] Consumir api rest
+- [x] Listar todos clientes cadastrados
+- [x] Cadastrar noco cliente com nome, email
+- [x] Deletar um cliente
 
 ### Techs
 
--   Insomnia
--   Prisma
--   MongoDB
--   Api rest
--   NodeJS
+- Insomnia
+- Prisma
+- MongoDB
+- Api rest
+- NodeJS
 
 ### Git Clone
 
--   [Front Clonar](https://github.com/WMS66/cadastro-clientes.git)
--   [Back Clonar](https://github.com/WMS66/api-cadastro-cliente)
+- [Front Clonar](https://github.com/WMS66/cadastro-clientes.git)
+- [Back Clonar](https://github.com/WMS66/api-cadastro-cliente)
 
 ### Para Rodar o Projeto
 
--   Abrir o Insomnia
--   `npm run dev` no frontend
--   `npm run dev` no backend
--   Eu estou usando o MongoDB para o Banco de Dados
+- Abrir o Insomnia
+- `npm run dev` no frontend
+- `npm run dev` no backend
+- Eu estou usando o MongoDB para o Banco de Dados
