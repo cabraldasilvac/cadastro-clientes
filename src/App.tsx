@@ -62,7 +62,7 @@ export default function App() {
             <main className="my-10 w-full md:max-w-2xl">
                 <h1 className="text-4xl font-medium text-white">Cadastro de Clientes</h1>
 
-                <form className="flex flex-col my-6" onSubmit={handleSubmit(onSubmit)}>
+                <form className="flex flex-col my-6" onSubmit={handleSubmit}>
                     <label className="font-medium text-white">Nome:</label>
                     <input
                         type="text"
