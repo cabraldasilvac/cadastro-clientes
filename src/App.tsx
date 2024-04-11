@@ -74,7 +74,7 @@ export default function App() {
                     <label className="font-medium text-white">Email:</label>
                     <input
                         type="email"
-                        placeholder="Digite seu email... "
+                        placeholder="Digite seu Email..."
                         className="w-full mb-5 p-2 rounded"
                         ref={emailRef}
                     ></input>
