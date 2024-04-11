@@ -1,7 +1,7 @@
 import { useEffect, useState, useRef, FormEvent } from 'react'
 import { FiTrash } from 'react-icons/fi'
 
-import { api } from './services/api'
+import { api } from './services/api.ts'
 
 interface CustomerProps {
     id: string
