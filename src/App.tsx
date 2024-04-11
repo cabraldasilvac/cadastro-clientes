@@ -1,5 +1,5 @@
 import { useEffect, useState, useRef, FormEvent } from 'react'
-import { useForm } from "react-hook-form";
+
 import { FiTrash } from 'react-icons/fi'
 
 import { api } from './services/api.ts'
